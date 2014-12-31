@@ -85,12 +85,12 @@ edit -->
                             <p class="MsoNormal" style=
                             "line-height: 150%; text-align: right;"><a href=
                             "http://coep.vlab.co.in/?sub=33&amp;brch=91"><span style="font-family: arial,helvetica,sans-serif; font-size: medium;">
-                            Back To Experiment List</span></a></p>
+                           </span></a></p>
 
                             <p><span style=
                             "font-size: medium; font-family: arial,helvetica,sans-serif; color: rgb(0, 0, 0);">
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To
-                            understand the working principle of RTD.</span></p>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                            </span></p>
 
                             <p>&nbsp;</p>
 
@@ -99,7 +99,7 @@ edit -->
                             <p><span style=
                             "font-family: arial,helvetica,sans-serif; color: rgb(0, 0, 0);">
                             <strong><span style=
-                            "font-size: large;">Objective:-</span></strong></span></p>
+                            "font-size: large;"></span></strong></span></p>
 
                             <p>&nbsp;</p>
 
@@ -109,29 +109,9 @@ edit -->
 
                             <p style="margin-bottom: 0cm;"><span style=
                             "font-family: arial,helvetica,sans-serif; font-size: medium; color: rgb(51, 51, 51);">
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.
-                            Study static and dynamic characteristics of
-                            RTD</span></p>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                           </span></p>
 
-                            <p style="margin-bottom: 0cm;">&nbsp;</p>
-
-                            <p style="margin-bottom: 0cm;"><span style=
-                            "font-family: arial,helvetica,sans-serif; font-size: medium; color: rgb(51, 51, 51);">
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.
-                            Study effect of various parameters on RTD
-                            performance<br></span></p>
-
-                            <p style="margin-bottom: 0cm;">&nbsp;</p>
-
-                            <p style="margin-bottom: 0cm;">&nbsp;</p>
-
-                            <p style="margin-bottom: 0cm;">&nbsp;</p>
-
-                            <p style="margin-bottom: 0cm;">&nbsp;</p>
-
-                            <p><span style=
-                            "font-family: arial,helvetica,sans-serif; font-size: medium; color: rgb(0, 0, 0);">
-                            <br></span></p>
                         </div>
                     </div>
                 </section><!-- Second section of the article-->
@@ -417,9 +397,9 @@ initial velocity is taken. But if the force exerted by the jet on the plate is t
 velocity minus the final velocity is taken.<br>
 <h3>Force exerted by a jet on a stationary inclined flat plate
 </h3>
-Let a jet of water, coming out from the nozzle; strike an inclined flat plate as shown in the figure.2.2
+Let a jet of water, coming out from the nozzle; strike an inclined flat plate as shown in the figure.2.2<br>
 
-<img alt="" height="169" src= "../images/imj2.png" width="261">
+<img alt="" height="169" src= "../images/imj2.png" width="261"><br>
 Let<br>
 a = AREA OF CROSS SECTION OF THE JET=<br>
 v = VELOCITY OF THE JET IN THE DIRECTION OF X<br>
